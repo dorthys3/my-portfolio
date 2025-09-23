@@ -4,7 +4,7 @@ export default function About() {
   return (
     <section id="about" className="about">
       <div className="container">
-        <h2>About Me</h2>
+        <h2 style={{marginTop:'-80px'}}>About Me</h2>
         <p>
           I'm a frontend developer with a passion for building clean and accessible interfaces.
           I enjoy transforming designs into performant React apps.
