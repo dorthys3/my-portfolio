@@ -10,7 +10,8 @@ export default function Hero() {
           <h1>Hi, I'm DORTHY CHRISTOBEL.</h1>
           <p className="lead">
             {personal.role} — {personal.bio} <br />
-            Detail-oriented and motivated professional with strong knowledge in software development fundamentals, quality assurance, and academic mentoring. Skilled in Java, JavaScript, and modern web technologies with a keen interest in software testing methodologies. Eager to contribute as a Testing Faculty, guiding students in mastering software testing concepts, tools, and practices while fostering a learning environment that bridges theory with practical application.
+            Detail-oriented and motivated aspiring Full-Stack Software Developer with strong foundations in programming, software development principles, and modern web technologies. Skilled in Java, JavaScript, and web development frameworks, with hands-on experience in building responsive web applications. Passionate about problem-solving, continuous learning, and applying best practices in software development to create efficient and scalable solutions.
+
           </p><br></br><br></br>
           <a className="btn" href="#contact">Contact</a>
         </div>
